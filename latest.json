@@ -1,0 +1,8 @@
+{
+  "benchmark": { "version": "0.1.0", "url": "https://github.com/notnotebox/wisp-benchmark" },
+  "wisp": {
+    "version": "0.1.2",
+    "label": "Wisp v0.1.2 4B",
+    "url": "https://huggingface.co/notebox/Wisp-v0.1.2-4B"
+  }
+}
